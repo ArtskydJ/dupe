@@ -1,6 +1,8 @@
 dupe
 ====
 
+[![Build Status](https://travis-ci.org/ArtskydJ/dupe.svg?branch=master)](https://travis-ci.org/ArtskydJ/dupe)
+
 Functions to check for, or remove duplicate array items.
 
 ```js
