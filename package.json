@@ -1,6 +1,6 @@
 {
   "name": "dupe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./notDupe.js",
   "author": {
     "name": "ArtskydJ",
@@ -17,7 +17,7 @@
     "url": "https://github.com/ArtskydJ/dupe"
   },
   "devDependencies": {
-    "tape": "^3.5.0"
+    "tape": "^4.0.0"
   },
   "scripts": {
     "test": "node test.js"
