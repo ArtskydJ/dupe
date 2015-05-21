@@ -2,6 +2,8 @@ dupe
 ====
 
 [![Build Status](https://travis-ci.org/ArtskydJ/dupe.svg?branch=master)](https://travis-ci.org/ArtskydJ/dupe)
+[![Dependency Status](https://david-dm.org/artskydj/dupe.svg)](https://david-dm.org/artskydj/dupe)
+[![devDependency Status](https://david-dm.org/artskydj/dupe/dev-status.svg)](https://david-dm.org/artskydj/dupe#info=devDependencies)
 
 Functions to check for, or remove duplicate array items.
 
