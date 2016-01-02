@@ -5,6 +5,7 @@ dupe
 
 [![Build Status](https://travis-ci.org/ArtskydJ/dupe.svg?branch=master)](https://travis-ci.org/ArtskydJ/dupe)
 
+# usage
 
 ```js
 var notDupe = require('dupe')
@@ -34,9 +35,7 @@ console.log( originals.some( isDupe ) ) // => false
 
 With [npm](http://nodejs.org/download) do:
 
-```bash
-npm install dupe
-```
+    npm install dupe
 
 # license
 
